@@ -288,9 +288,9 @@ Please open an issue first to discuss.
 ```bibtex
 @misc{skillcollapse2026,
   title   = {Skill Collapse in Hierarchical Reinforcement Learning},
-  author  = {Your Name},
+  author  = {Ruparani Thupakula},
   year    = {2026},
-  url     = {https://github.com/yourusername/skill-collapse-rl}
+  url     = {https://github.com/Ruparani777/-Skill-Collapse-in-Hierarchical-RL}
 }
 ```
 
